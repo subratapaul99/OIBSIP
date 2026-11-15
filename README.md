@@ -42,5 +42,5 @@ Python, pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn, NLTK
 - File naming format: `SubrataPaul_L1T1.ipynb` (Level 1, Task 1), and so on.
 
 ## Connect
-- LinkedIn: [Your Name](ADD-YOUR-LINKEDIN-LINK-HERE)
+- LinkedIn:  linkedin.com/in/subrata-paul-06986b278-
 - GitHub: [subratapaul99](https://github.com/subratapaul99)
